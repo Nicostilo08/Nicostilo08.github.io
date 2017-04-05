@@ -63,7 +63,7 @@ team-members:
   image: "/uploads/img2.jpg"
   instagram: https://www.instagram.com/tomy_cuts/
   facebook: https://www.facebook.com/nicostilobarbershop
-- name: Jorge
+- name: Jorge "Tato the Barber"
   image: "/uploads/img3.jpg"
   instagram: https://www.instagram.com/tatothebarber/
   facebook: https://www.facebook.com/nicostilobarbershop
