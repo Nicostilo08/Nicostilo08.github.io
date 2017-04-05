@@ -45,7 +45,7 @@ team-content: We do cool stuff
 team-description: This is our team. We are very prepared
 team-members:
 - name: NicoStilo
-  image: img/team/1.jpg
+  image: "/uploads/img1.1.jpg"
   instagram: https://www.instagram.com/nicostilo8/
   facebook: https://www.facebook.com/nicostilobarbershop
 - name: Michael Jackson
