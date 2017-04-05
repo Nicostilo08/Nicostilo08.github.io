@@ -88,7 +88,7 @@ our-story:
     at Home. The barbers at NicoStilo Barbershop treat you like you are a part of
     the our family. We are specialize in all different types of haircuts.If you want
     it done Right ,Come to NicoStilo Barbershop
-- image: img/about/2.jpg
+- image: "/uploads/nicostilobarbershop.jpg"
   when-it-was: 2015
   title: The Barbershop
   description: |-
