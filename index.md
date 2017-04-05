@@ -90,7 +90,7 @@ our-story:
   description: |-
     Year 2015 was the Grand Opening of NicoStilo Barbershop located at 279 New Brunswick Ave. Perth Amboy NJ 08861
     You are all welcome to visit us
-- image: "/uploads/approved-fba777.jpg"
+- image: "/uploads/stock-vector-grunge-rubber-stamp-with-the-text-approved-written-inside-the-stamp-vector-illustration-117864064.jpg"
   when-it-was: 2014
   title: Certified
   description: 'It was always my dream to have my own barbershop. In 2014 I got officially
