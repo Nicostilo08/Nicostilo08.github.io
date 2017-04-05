@@ -9,7 +9,7 @@ menu-portfolio: Portfolio
 menu-about: About
 menu-team: Team
 welcome: Welcome To Our Barbershop!
-nice-to-meet-you: It's Nice To Meet You
+nice-to-meet-you: We'll get you cleaned up!
 tell-me-more: Tell Me More
 services-title: Services
 services-content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
