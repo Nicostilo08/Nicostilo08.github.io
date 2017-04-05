@@ -11,8 +11,7 @@ welcome: Welcome To Our Barbershop!
 nice-to-meet-you: We'll get you cleaned up!
 tell-me-more: Tell Me More
 services-title: Services
-services-content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
-  maxime quam architecto quo inventore harum ex magni, dicta impedit.
+services-content: Best cuts in town 100% Guaranteed!!!
 first-service-title: E-commerse
 first-service-content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
   maxime quam architecto quo inventore harum ex magni, dicta impedit.
