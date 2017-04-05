@@ -57,6 +57,10 @@ team-members:
   image: img/team/3.jpg
   instagram: https://www.instagram.com/instagram/
   facebook: https://www.facebook.com/nicostilobarbershop
+- name: Nico Fernandez
+  image: img/team/4.jpg
+  instagram: https://www.instagram.com/instagram/
+  facebook: https://www.facebook.com/nicostilobarbershop
 story-start: Our Story!!
 our-story:
 - image: img/about/1.jpg
