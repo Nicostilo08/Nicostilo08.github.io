@@ -63,31 +63,29 @@ team-members:
 story-start: Our Story!!
 our-story:
 - image: img/about/1.jpg
-  date: 2009-07-20 00:00:00 Z
-  title: Our Humble Beginnings
+  when-it-was: 2011
+  title: Where we are
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum
     eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero
     unde, sed, incidunt et ea quo dolore laudantium consectetur!
 - image: img/about/2.jpg
-  date: 2009-07-20 00:00:00 Z
-  title: Our Humble Beginnings
+  when-it-was: 2008
+  title: New office
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum
     eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero
     unde, sed, incidunt et ea quo dolore laudantium consectetur!
-  inverted: timeline-inverted
 - image: img/about/3.jpg
-  date: 1970-01-01 00:00:00 Z
-  title: Our Story
+  when-it-was: 2007
+  title: Certified
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum
     eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero
     unde, sed, incidunt et ea quo dolore laudantium consectetur!
 - image: img/about/4.jpg
-  date: 1970-01-01 00:00:00 Z
-  title: Hello
+  when-it-was: 2004
+  title: First hire
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum
     eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero
     unde, sed, incidunt et ea quo dolore laudantium consectetur!
-  inverted: timeline-inverted
 layout: barbershop
 ---
 

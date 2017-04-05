@@ -164,13 +164,13 @@
           <div class="col-lg-12">
             <ul class="timeline">
               {% for story in page.our-story %}
-                <li class="{{ story.inverted }}">
+                <li class="{% cycle '', 'timeline-inverted' %}">
                   <div class="timeline-image">
                     <img class="rounded-circle img-fluid" src="{{ story.image }}" alt="">
                   </div>
                   <div class="timeline-panel">
                     <div class="timeline-heading">
-                      <h4>{{ story.date }}</h4>
+                      <h4>{{ story.when-it-was }}</h4>
                       <h4 class="subheading">{{ story.title }}</h4>
                     </div>
                     <div class="timeline-body">
