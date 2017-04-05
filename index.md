@@ -8,7 +8,7 @@ menu-services: Services
 menu-portfolio: Portfolio
 menu-about: About
 menu-team: Team
-welcome: Welcome To Our Studio!
+welcome: Welcome To Our Barbershop!
 nice-to-meet-you: It's Nice To Meet You
 tell-me-more: Tell Me More
 services-title: Services
