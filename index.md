@@ -18,8 +18,18 @@ first-service-content: NicoStilo Barbershop is a place tha you can go to and fee
   a part of the our family.
 first-service-icon: fa-users
 second-service-title: Responsive Design
-second-service-content: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-  Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+second-service-content: |-
+  Hair wash                                        $5 +
+  Shape-up                                         $8 +
+  Facial massage                              $8 +
+  Designs starting at                       $10 +
+  Shape-up and Beard                   $12 +
+  Kids cut                                             $12 +
+  Haircut                                              $15 +
+  Hot towel shave                            $15 +
+  Black-out                                          $20 +
+  Haircut and beard                        $21 +
+  Haircut and hot towel shave    $25 +
 second-service-icon: fa-laptop
 third-service-title: Web Security
 third-service-content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
