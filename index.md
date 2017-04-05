@@ -75,6 +75,10 @@ team-members:
   image: "/uploads/img5.jpg"
   instagram: https://www.instagram.com/nicostilobarbershop/
   facebook: https://www.facebook.com/nicostilobarbershop
+- name: Bryan Style
+  image: "/uploads/img6.jpg"
+  instagram: https://www.instagram.com/_marte07
+  facebook: https://www.facebook.com/nicostilobarbershop
 story-start: Our Story!!
 our-story:
 - image: "/uploads/Nicostilo...jpg"
