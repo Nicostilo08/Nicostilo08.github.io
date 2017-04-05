@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  yelp:
+    title: Yelp
+    output: true
 email: Nicostilobarbershop@hotmail.com
 description: 'Public website for NicoStilo Barbershop
 
