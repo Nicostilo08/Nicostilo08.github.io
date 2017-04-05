@@ -66,7 +66,7 @@ team-members:
 - name: Jorge "Tato the Barber"
   image: "/uploads/img3.jpg"
   instagram: https://www.instagram.com/tatothebarber/
-  facebook: https://www.facebook.com/nicostilobarbershop
+  facebook: https://www.facebook.com/profile.php?id=100000271036482&fref=ufi
 - name: Francis Style
   image: "/uploads/img4.jpg"
   instagram: https://www.instagram.com/franci_stilo/
