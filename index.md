@@ -84,23 +84,21 @@ our-story:
     eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero
     unde, sed, incidunt et ea quo dolore laudantium consectetur!
 - image: img/about/2.jpg
-  when-it-was: 2008
+  when-it-was: 2015
   title: New office
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum
-    eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero
-    unde, sed, incidunt et ea quo dolore laudantium consectetur!
+  description: |-
+    Year 2015 was the Grand Opening of NicoStilo Barbershop located at 279 New Brunswick Ave. Perth Amboy NJ 08861
+    You are all welcome to visit us
 - image: img/about/3.jpg
-  when-it-was: 2007
+  when-it-was: 2014
   title: Certified
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum
-    eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero
-    unde, sed, incidunt et ea quo dolore laudantium consectetur!
+  description: 'It was always my dream to have my own barbershop. In 2014 I got officially
+    certified as a cosmetologist by the state of New Jersey '
 - image: img/about/4.jpg
-  when-it-was: 2004
+  when-it-was: 2009
   title: First hire
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum
-    eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero
-    unde, sed, incidunt et ea quo dolore laudantium consectetur!
+  description: I started working as a barber in 2009. What started as a hobby became
+    my passion. I thank Evolution Barbershop in the Dominican Republic for the opportunity.
 layout: barbershop
 ---
 
