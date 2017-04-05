@@ -62,9 +62,9 @@ team-members:
   Key: Owner/Professional Barber
 - name: Tomy Boy
   image: "/uploads/img2.jpg"
+  Key: Professional Barber
   instagram: https://www.instagram.com/tomy_cuts/
   facebook: https://www.facebook.com/nicostilobarbershop
-  Key: Professional Barber
 - name: Jorge
   image: "/uploads/img3.jpg"
   instagram: https://www.instagram.com/tatothebarber/
