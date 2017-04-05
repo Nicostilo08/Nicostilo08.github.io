@@ -17,7 +17,7 @@ first-service-content: NicoStilo Barbershop is a place tha you can go to and fee
   like you're at Home. The barbers at NicoStilo Barbershop treat you like you are
   a part of the our family.
 first-service-icon: fa-users
-second-service-title: Responsive Design
+second-service-title: Price List
 second-service-content: |-
   Hair wash                                        $5 +
   Shape-up                                         $8 +
