@@ -12,10 +12,11 @@ nice-to-meet-you: We'll get you cleaned up!
 tell-me-more: Tell Me More
 services-title: Services
 services-content: Best cuts in town 100% Guaranteed!!!
-first-service-title: E-commerse
-first-service-content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
-  maxime quam architecto quo inventore harum ex magni, dicta impedit.
-first-service-icon: fa-shopping-cart
+first-service-title: Our Shop
+first-service-content: NicoStilo Barbershop is a place tha you can go to and feel
+  like you're at Home. The barbers at NicoStilo Barbershop treat you like you are
+  a part of the our family.
+first-service-icon: fa-users
 second-service-title: Responsive Design
 second-service-content: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
   Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
