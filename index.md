@@ -31,9 +31,10 @@ second-service-content: |-
   Haircut and beard                        $21 +
   Haircut and hot towel shave    $25 +
 second-service-icon: fa-laptop
-third-service-title: Web Security
-third-service-content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
-  maxime quam architecto quo inventore harum ex magni, dicta impedit.
+third-service-title: Schedule
+third-service-content: "Mon\t8:00 am - 8:00 pm\t\nTue\t8:00 am - 8:00 pm\t\nWed\t8:00
+  am - 8:00 pm\t\nThu\t8:00 am - 8:00 pm\t\nFri\t        8:00 am - 9:00 pm\t\nSat\t
+  \       8:00 am - 9:00 pm\t\nSun\t9:00 am - 5:00 pm"
 third-service-icon: fa-lock
 portfolio-title: Portfolio
 portfolio-content: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
