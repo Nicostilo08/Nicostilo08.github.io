@@ -30,7 +30,7 @@ second-service-content: |-
   Black-out                                          $20 +
   Haircut and beard                        $21 +
   Haircut and hot towel shave    $25 +
-second-service-icon: fa-laptop
+second-service-icon: fa-calendar
 third-service-title: Schedule
 third-service-content: "Mon\t8:00 am - 8:00 pm\t\nTue\t8:00 am - 8:00 pm\t\nWed\t8:00
   am - 8:00 pm\t\nThu\t8:00 am - 8:00 pm\t\nFri\t        8:00 am - 9:00 pm\t\nSat\t
