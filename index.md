@@ -1,7 +1,7 @@
 ---
 title: NicoStilo Barbershop
 copyright: Copyright &copy; NicoStilo Barbershop 2017
-instagram: https://www.instagram.com/instagram/
+instagram: https://www.instagram.com/nicostilobarbershop/
 facebook: https://www.facebook.com/nicostilobarbershop
 menu-services: Services
 menu-portfolio: Portfolio
