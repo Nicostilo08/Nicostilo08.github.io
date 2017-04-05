@@ -41,8 +41,8 @@ portfolio-items:
 - image: img/portfolio/06-thumbnail.jpg
   description: Graphic Design
 team-title: Our Amazing Team!!
-team-content: We do cool stuff
-team-description: This is our team. We are very prepared
+team-content: We specialize in all types of hair !
+team-description: Over 40+ years in combined expierence
 team-members:
 - name: NicoStilo
   image: "/uploads/img1.1.jpg"
