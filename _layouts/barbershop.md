@@ -28,9 +28,13 @@
 
     <!-- Temporary navbar container fix -->
     <style>
-.navbar-toggler {
-  z-index: 1;
-}
+        .modal-image {
+          min-width: 600px;
+          max-width: 900px;
+        }
+        .navbar-toggler {
+          z-index: 1;
+        }
 
         @media (max-width: 576px) {
           nav > .container {
@@ -142,30 +146,6 @@
                 <p class="text-muted">{{ item.description }}</p>
               </div>
             </div>
-
-            <!-- Modal 1 -->
-            <div class="portfolio-modal modal fade" id="portfolioModal{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
-              <div class="modal-dialog">
-                <div class="modal-content">
-                  <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                      <div class="rl">
-                      </div>
-                    </div>
-                  </div>
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-lg-8 offset-lg-2">
-                        <div class="modal-body">
-                          <img class="img-fluid d-block mx-auto" src="{{ item.image }}" alt="">
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
           {% endfor %}
         </div>
       </div>
@@ -268,6 +248,31 @@
     </footer>
 
     <!-- Portfolio Modals -->
+    {% for item in page.portfolio-items %}
+      <!-- Modal  -->
+      <div class="portfolio-modal modal fade" id="portfolioModal{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+              <div class="lr">
+                <div class="rl">
+                </div>
+              </div>
+            </div>
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                  <div class="modal-body">
+                    <img class="modal-image img-fluid d-block mx-auto" src="{{ item.image }}" alt="">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+
 
     {{ content }}
 
@@ -284,7 +289,7 @@
     <script src="js/contact_me.js"></script>
 
     <!-- Custom scripts for this template -->
-    <script src="js/agency.js"></script>
+    <script src="js/agency.min.js"></script>
 
   </body>
 
