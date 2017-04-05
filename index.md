@@ -77,12 +77,13 @@ team-members:
   facebook: https://www.facebook.com/nicostilobarbershop
 story-start: Our Story!!
 our-story:
-- image: img/about/1.jpg
-  when-it-was: 2011
-  title: Where we are
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum
-    eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero
-    unde, sed, incidunt et ea quo dolore laudantium consectetur!
+- image: "/uploads/Nicostilo...jpg"
+  when-it-was: 2015-Present
+  title: NicoStilo Barbershop
+  description: NicoStilo Barbershop is a place tha you can go to and feel like you're
+    at Home. The barbers at NicoStilo Barbershop treat you like you are a part of
+    the our family. We are specialize in all different types of haircuts.If you want
+    it done Right ,Come to NicoStilo Barbershop
 - image: img/about/2.jpg
   when-it-was: 2015
   title: The Barbershop
