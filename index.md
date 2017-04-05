@@ -48,17 +48,21 @@ team-members:
   image: "/uploads/img1.1.jpg"
   instagram: https://www.instagram.com/nicostilo8/
   facebook: https://www.facebook.com/nicostilobarbershop
-- name: Michael Jackson
-  image: img/team/2.jpg
-  instagram: https://www.instagram.com/instagram/
+- name: Tomy Boy
+  image: "/uploads/img2.jpg"
+  instagram: https://www.instagram.com/tomy_cuts/
   facebook: https://www.facebook.com/nicostilobarbershop
-- name: El Mayor
-  image: img/team/3.jpg
-  instagram: https://www.instagram.com/instagram/
+- name: Jorge
+  image: "/uploads/img3.jpg"
+  instagram: https://www.instagram.com/tatothebarber/
   facebook: https://www.facebook.com/nicostilobarbershop
-- name: Nico Fernandez
-  image: "/uploads/4.jpg"
-  instagram: https://www.instagram.com/instagram/
+- name: Francis Style
+  image: "/uploads/img4.jpg"
+  instagram: https://www.instagram.com/franci_stilo/
+  facebook: https://www.facebook.com/nicostilobarbershop
+- name: Nelson Style
+  image: "/uploads/img5.jpg"
+  instagram: https://www.instagram.com/nicostilobarbershop/
   facebook: https://www.facebook.com/nicostilobarbershop
 story-start: Our Story!!
 our-story:
