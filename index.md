@@ -1,6 +1,5 @@
 ---
 title: NicoStilo Barbershop
-layout: barbershop
 copyright: Copyright &copy; NicoStilo Barbershop 2017
 instagram: https://www.instagram.com/instagram/
 facebook: https://www.facebook.com/nicostilobarbershop
@@ -58,36 +57,37 @@ team-members:
   instagram: https://www.instagram.com/instagram/
   facebook: https://www.facebook.com/nicostilobarbershop
 - name: Nico Fernandez
-  image: img/team/4.jpg
+  image: "/uploads/4.jpg"
   instagram: https://www.instagram.com/instagram/
   facebook: https://www.facebook.com/nicostilobarbershop
 story-start: Our Story!!
 our-story:
 - image: img/about/1.jpg
-  date: 2009-2011
+  date: 2009-07-20 00:00:00 Z
   title: Our Humble Beginnings
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum
     eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero
     unde, sed, incidunt et ea quo dolore laudantium consectetur!
 - image: img/about/2.jpg
-  date: 2009-2011
+  date: 2009-07-20 00:00:00 Z
   title: Our Humble Beginnings
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum
     eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero
     unde, sed, incidunt et ea quo dolore laudantium consectetur!
   inverted: timeline-inverted
 - image: img/about/3.jpg
-  date: 2009
+  date: 1970-01-01 00:00:00 Z
   title: Our Story
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum
     eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero
     unde, sed, incidunt et ea quo dolore laudantium consectetur!
 - image: img/about/4.jpg
-  date: 20015
+  date: 1970-01-01 00:00:00 Z
   title: Hello
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum
     eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero
     unde, sed, incidunt et ea quo dolore laudantium consectetur!
   inverted: timeline-inverted
+layout: barbershop
 ---
 
