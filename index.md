@@ -70,7 +70,7 @@ team-members:
 - name: Francis Style
   image: "/uploads/img4.jpg"
   instagram: https://www.instagram.com/franci_stilo/
-  facebook: https://www.facebook.com/nicostilobarbershop
+  facebook: https://www.facebook.com/dionis.zapata.3?fref=pb&hc_location=friends_tab&pnref=friends.all
 - name: Nelson Style
   image: "/uploads/img5.jpg"
   instagram: https://www.instagram.com/nicostilobarbershop/
