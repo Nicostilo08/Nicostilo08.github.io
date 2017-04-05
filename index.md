@@ -56,7 +56,7 @@ team-content: We specialize in all types of hair !
 team-description: Over 40+ years in combined expierence
 team-members:
 - name: NicoStilo
-  image: "/uploads/nicostilo..1.png"
+  image: "/uploads/nicostiloo.png"
   instagram: https://www.instagram.com/nicostilo8/
   facebook: https://www.facebook.com/nicostilobarbershop
 - name: Tomy Boy
