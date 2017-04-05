@@ -59,27 +59,22 @@ team-members:
   image: "/uploads/img1.1-515821.jpg"
   instagram: https://www.instagram.com/nicostilo8/
   facebook: https://www.facebook.com/nicostilobarbershop
-  Key: Owner/Professional Barber
 - name: Tomy Boy
   image: "/uploads/img2.jpg"
-  Key: Professional Barber
   instagram: https://www.instagram.com/tomy_cuts/
   facebook: https://www.facebook.com/nicostilobarbershop
 - name: Jorge
   image: "/uploads/img3.jpg"
   instagram: https://www.instagram.com/tatothebarber/
   facebook: https://www.facebook.com/nicostilobarbershop
-  Key: Professional Barber
 - name: Francis Style
   image: "/uploads/img4.jpg"
   instagram: https://www.instagram.com/franci_stilo/
   facebook: https://www.facebook.com/nicostilobarbershop
-  Key: Professional Barber
 - name: Nelson Style
   image: "/uploads/img5.jpg"
   instagram: https://www.instagram.com/nicostilobarbershop/
   facebook: https://www.facebook.com/nicostilobarbershop
-  Key: Professional Barber
 story-start: Our Story!!
 our-story:
 - image: "/uploads/Nicostilo...jpg"
