@@ -109,7 +109,7 @@ our-story:
   title: Certified
   description: 'It was always my dream to have my own barbershop. In 2014 I got officially
     certified as a cosmetologist by the state of New Jersey '
-- image: "/uploads/instrumentos.00_jpg_srz"
+- image: "/uploads/b47b0e3204d54a93b13108b60de2f04a.jpg_srz_1440_948_85_22_0.50_1.20_0.00_jpg_srz"
   when-it-was: 2009
   title: First hire
   description: I started working as a barber in 2009. What started as a hobby became
