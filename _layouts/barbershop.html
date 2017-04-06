@@ -144,19 +144,21 @@
         </div>
         <div class="row">
           {% for item in page.portfolio-items %}
-            <div class="col-md-4 col-sm-6 portfolio-item">
-              <div class="portfolio-link" data-toggle="modal" href="#portfolioModal{{ forloop.index }}">
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <div class="portfolio-link">
+              <a href="{{ item.photo-link }}" target="_blank">
                 <div class="portfolio-hover">
                   <div class="portfolio-hover-content">
                     <i class="fa fa-plus fa-3x"></i>
                   </div>
                 </div>
                 <img class="img-fluid" src="{{ item.image }}" alt="">
-              </div>
-              <div class="portfolio-caption">
-                <h4>Threads</h4>
-                <p class="text-muted">{{ item.description }}</p>
-              </div>
+            </div>
+            <div class="portfolio-caption">
+              <h4>Threads</h4>
+              <p class="text-muted">{{ item.description }}</p>
+            </div>
+              </a>
             </div>
           {% endfor %}
         </div>
