@@ -2,11 +2,14 @@
 title: NicoStilo Barbershop
 copyright: Copyright &copy; NicoStilo Barbershop 2017
 instagram: https://www.instagram.com/nicostilobarbershop/
+yelp: https://www.yelp.com
+google: https://www.google.com
 facebook: https://www.facebook.com/nicostilobarbershop
 menu-services: Services
 menu-portfolio: Portfolio
 menu-about: About
 menu-team: Team
+menu-contact: Contact
 welcome: Welcome To Our Barbershop!
 nice-to-meet-you: We'll get you cleaned up!
 tell-me-more: Tell Me More
@@ -104,6 +107,12 @@ our-story:
   title: First hire
   description: I started working as a barber in 2009. What started as a hobby became
     my passion. I thank Evolution Barbershop in the Dominican Republic for the opportunity.
+contact-title: Contact Us
+contact-content: 15 Penn St, New Jersey, Perth Amboy, Etc
+contact-phone: 222-333-4444
+contact-phone-icon: fa-phone
+contact-email: nicostilo@myemail.com
+contact-email-icon: fa-envelope
 layout: barbershop
 ---
 
