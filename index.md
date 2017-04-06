@@ -2,14 +2,11 @@
 title: NicoStilo Barbershop
 copyright: Copyright &copy; NicoStilo Barbershop 2017
 instagram: https://www.instagram.com/nicostilobarbershop/
-yelp: https://www.yelp.com
-google: https://www.google.com
 facebook: https://www.facebook.com/nicostilobarbershop
 menu-services: Services
 menu-portfolio: Portfolio
 menu-about: About
 menu-team: Team
-menu-contact: Contact
 welcome: Welcome To Our Barbershop!
 nice-to-meet-you: We'll get you cleaned up!
 tell-me-more: Tell Me More
@@ -40,7 +37,7 @@ third-service-content: "Mon\t8:00 am - 8:00 pm\t\nTue\t8:00 am - 8:00 pm\t\nWed\
   \       8:00 am - 9:00 pm\t\nSun\t9:00 am - 5:00 pm"
 third-service-icon: fa-clock-o
 portfolio-title: Portfolio
-portfolio-content: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+portfolio-content: Some of our Work !!!
 portfolio-items:
 - image: img/portfolio/01-thumbnail.jpg
   description: Graphic Design
@@ -59,49 +56,39 @@ team-content: We specialize in all types of hair !
 team-description: Over 40+ years in combined expierence
 team-members:
 - name: NicoStilo
-  position: Barber 1
   image: "/uploads/img1.1-515821.jpg"
   instagram: https://www.instagram.com/nicostilo8/
   facebook: https://www.facebook.com/nicostilobarbershop
 - name: Tomy Boy
-  position: Barber 2
   image: "/uploads/img2.jpg"
   instagram: https://www.instagram.com/tomy_cuts/
   facebook: https://www.facebook.com/nicostilobarbershop
-- name: Jorge "Tato the Barber"
-  position: Barber 3
+- name: Jorge
   image: "/uploads/img3.jpg"
   instagram: https://www.instagram.com/tatothebarber/
-  facebook: https://www.facebook.com/profile.php?id=100000271036482&fref=ufi
+  facebook: https://www.facebook.com/nicostilobarbershop
 - name: Francis Style
-  position: Barber 4
   image: "/uploads/img4.jpg"
   instagram: https://www.instagram.com/franci_stilo/
-  facebook: https://www.facebook.com/dionis.zapata.3?fref=pb&hc_location=friends_tab&pnref=friends.all
+  facebook: https://www.facebook.com/nicostilobarbershop
 - name: Nelson Style
-  position: Barber 6
   image: "/uploads/img5.jpg"
   instagram: https://www.instagram.com/nicostilobarbershop/
-  facebook: https://www.facebook.com/nicostilobarbershop
-- name: Bryan Style
-  position: Barber 7
-  image: "/uploads/img6.jpg"
-  instagram: https://www.instagram.com/_marte07
   facebook: https://www.facebook.com/nicostilobarbershop
 story-start: Our Story!!
 our-story:
 - image: "/uploads/Nicostilo...jpg"
   when-it-was: 2015-Present
   title: NicoStilo Barbershop
-  description: NicoStilo Barbershop is a place tha you can go to and feel like you're
-    at Home. The barbers at NicoStilo Barbershop treat you like you are a part of
-    the our family. We are specialize in all different types of haircuts.If you want
-    it done Right ,Come to NicoStilo Barbershop
-- image: "/uploads/nicostilobarbershop.jpg"
+  description: NicoStilo Barbershop is a place that you can feel like you're at Home.
+    The barbers at NicoStilo Barbershop treat you like you are a part of our family.
+    We are specialize in all different types of haircuts.If you want it done Right
+    ,Come to NicoStilo Barbershop
+- image: img/about/2.jpg
   when-it-was: 2015
   title: The Barbershop
   description: |-
-    Year 2015 was the Grand Opening of NicoStilo Barbershop, located at 279 New Brunswick Ave. Perth Amboy NJ 08861
+    Year 2015 was the Grand Opening of NicoStilo Barbershop located at 279 New Brunswick Ave. Perth Amboy NJ 08861
     You are all welcome to visit us
 - image: "/uploads/stock-vector-grunge-rubber-stamp-with-the-text-approved-written-inside-the-stamp-vector-illustration-117864064.jpg"
   when-it-was: 2014
@@ -113,12 +100,6 @@ our-story:
   title: First hire
   description: I started working as a barber in 2009. What started as a hobby became
     my passion. I thank Evolution Barbershop in the Dominican Republic for the opportunity.
-contact-title: Contact Us
-contact-content: 15 Penn St, New Jersey, Perth Amboy, Etc
-contact-phone: 222-333-4444
-contact-phone-icon: fa-phone
-contact-email: nicostilo@myemail.com
-contact-email-icon: fa-envelope
 layout: barbershop
 ---
 
