@@ -5,7 +5,7 @@ instagram: https://www.instagram.com/nicostilobarbershop/
 facebook: https://www.facebook.com/nicostilobarbershop
 menu-services: Services
 menu-portfolio: Portfolio
-menu-about: About
+menu-about: About Us
 menu-team: Team
 welcome: Welcome To Our Barbershop!
 nice-to-meet-you: We'll get you cleaned up!
