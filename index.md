@@ -45,21 +45,21 @@ portfolio-content: Some of our Work !!!
 portfolio-items:
 - image: "/uploads/fade.jpg"
   description: 
-  photo-link: https://www.instagram.com/p/BQO69xMB-VY/?taken-by=nicostilobarbershop
-- image: img/portfolio/02-thumbnail.jpg
-  description: Graphic Design
   photo-link: https://www.instagram.com/nicostilobarbershop/
-- image: img/portfolio/03-thumbnail.jpg
-  description: Graphic Design
+- image: "/uploads/cesar.jpg"
+  description: 
   photo-link: https://www.instagram.com/nicostilobarbershop/
-- image: img/portfolio/04-thumbnail.jpg
-  description: Graphic Design
+- image: "/uploads/batman.jpg"
+  description: 
   photo-link: https://www.instagram.com/nicostilobarbershop/
-- image: img/portfolio/05-thumbnail.jpg
-  description: Graphic Design
+- image: "/uploads/regular%20haircut.jpg"
+  description: 
   photo-link: https://www.instagram.com/nicostilobarbershop/
-- image: img/portfolio/06-thumbnail.jpg
-  description: Graphic Design
+- image: "/uploads/design.jpg"
+  description: 
+  photo-link: https://www.instagram.com/nicostilobarbershop/
+- image: "/uploads/beard.jpg"
+  description: 
   photo-link: https://www.instagram.com/nicostilobarbershop/
 team-title: Our Amazing Team!!
 team-content: We specialize in all types of hair !
