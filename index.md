@@ -85,6 +85,10 @@ team-members:
   image: "/uploads/img5.jpg"
   instagram: https://www.instagram.com/nicostilobarbershop/
   facebook: https://www.facebook.com/nicostilobarbershop
+- name: Bryan Style
+  image: "/uploads/img6-7ce432.jpg"
+  instagram: https://www.instagram.com/_marte07/
+  facebook: https://www.facebook.com/nicostilobarbershop
 story-start: Our Story!!
 our-story:
 - image: "/uploads/Nicostilo...jpg"
@@ -105,7 +109,7 @@ our-story:
   title: Certified
   description: 'It was always my dream to have my own barbershop. In 2014 I got officially
     certified as a cosmetologist by the state of New Jersey '
-- image: "/uploads/evolution.jpg"
+- image: "/uploads/dominicana.jpg"
   when-it-was: 2009
   title: First hire
   description: I started working as a barber in 2009. What started as a hobby became
