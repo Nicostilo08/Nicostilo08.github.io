@@ -43,7 +43,7 @@ third-service-icon: fa-clock-o
 portfolio-title: Portfolio
 portfolio-content: Some of our Work !!!
 portfolio-items:
-- image: 
+- image: "/uploads/fade.jpg"
   description: 
   photo-link: https://www.instagram.com/p/BQO69xMB-VY/?taken-by=nicostilobarbershop
 - image: img/portfolio/02-thumbnail.jpg
