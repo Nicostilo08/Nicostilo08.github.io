@@ -3,8 +3,8 @@ title: NicoStilo Barbershop
 logo-image: img/logo.png
 copyright: Copyright &copy; NicoStilo Barbershop 2017
 instagram: https://www.instagram.com/nicostilobarbershop/
-yelp: https://www.yelp.com
-google: https://www.google.com
+yelp: https://www.yelp.com/biz/nicostilo-barbershop-perth-amboy
+google: https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=nicostilo+barbershop&*&lrd=0x89c3ca7bd61e6001:0x8350666b6cbbc403,3,
 facebook: https://www.facebook.com/nicostilobarbershop
 menu-services: Services
 menu-portfolio: Portfolio
@@ -94,7 +94,7 @@ our-story:
     The barbers at NicoStilo Barbershop treat you like you are a part of our family.
     We are specialize in all different types of haircuts.If you want it done Right
     ,Come to NicoStilo Barbershop
-- image: img/about/2.jpg
+- image: "/uploads/nicoooo.jpg"
   when-it-was: 2015
   title: The Barbershop
   description: |-
@@ -105,16 +105,16 @@ our-story:
   title: Certified
   description: 'It was always my dream to have my own barbershop. In 2014 I got officially
     certified as a cosmetologist by the state of New Jersey '
-- image: img/about/4.jpg
+- image: "/uploads/evolution.jpg"
   when-it-was: 2009
   title: First hire
   description: I started working as a barber in 2009. What started as a hobby became
     my passion. I thank Evolution Barbershop in the Dominican Republic for the opportunity.
 contact-title: Contact Us
-contact-content: 15 Penn St, New Jersey, Perth Amboy, Etc
-contact-phone: 222-333-4444
+contact-content: 279 New Brunswick ave. Perth Amboy NJ. 08861
+contact-phone: 732-324-7880
 contact-phone-icon: fa-phone
-contact-email: nicostilo@myemail.com
+contact-email: nicostilobarbershop@gmail.com
 contact-email-icon: fa-envelope
 layout: barbershop
 ---
