@@ -1,5 +1,6 @@
 ---
 title: NicoStilo Barbershop
+logo-image: img/logo.png
 copyright: Copyright &copy; NicoStilo Barbershop 2017
 instagram: https://www.instagram.com/nicostilobarbershop/
 yelp: https://www.yelp.com
