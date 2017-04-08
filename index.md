@@ -59,6 +59,7 @@ portfolio-items:
   description: 
   photo-link: https://www.instagram.com/nicostilobarbershop/
 - image: "/uploads/beard.jpg"
+  description: 
   photo-link: https://www.instagram.com/nicostilobarbershop/
 team-title: Our Amazing Team!!
 team-content: We specialize in all types of hair !
@@ -95,19 +96,18 @@ our-story:
   title: NicoStilo Barbershop
   description: NicoStilo Barbershop is a place that you can feel like you're at Home.
     The barbers at NicoStilo Barbershop treat you like you are a part of our family.
-    We are specialize in all different types of haircuts.If you want it done Right
-    ,Come to NicoStilo Barbershop
+    We are specialize in all different types of haircuts. If you want it done Right,
+    Come to NicoStilo Barbershop
 - image: "/uploads/nicoooo.jpg"
   when-it-was: 2015
   title: The Barbershop
-  description: |-
-    Year 2015 was the Grand Opening of NicoStilo Barbershop located at 279 New Brunswick Ave. Perth Amboy NJ 08861
-    You are all welcome to visit us
+  description: "Year 2015 was the Grand Opening of NicoStilo Barbershop located at
+    279 New Brunswick Ave. Perth Amboy NJ 08861. \nYou are all welcome to visit us"
 - image: "/uploads/stock-vector-grunge-rubber-stamp-with-the-text-approved-written-inside-the-stamp-vector-illustration-117864064.jpg"
   when-it-was: 2014
   title: Certified
-  description: 'It was always my dream to have my own barbershop. In 2014 I got officially
-    certified as a cosmetologist by the state of New Jersey '
+  description: It was always my dream to have my own barbershop. In 2014 I got officially
+    certified as a cosmetologist by the State of New Jersey.
 - image: "/uploads/b47b0e3204d54a93b13108b60de2f04a.jpg_srz_1440_948_85_22_0.50_1.20_0.00_jpg_srz"
   when-it-was: 2009
   title: First hire
