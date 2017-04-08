@@ -17,9 +17,9 @@ tell-me-more: Tell Me More
 services-title: Services
 services-content: Best cuts in town 100% Guaranteed!!!
 first-service-title: Our Shop
-first-service-content: NicoStilo Barbershop is a place tha you can go to and feel
-  like you're at Home. The barbers at NicoStilo Barbershop treat you like you are
-  a part of the our family.
+first-service-content: NicoStilo Barbershop is a place that you can go and feel like
+  you're at Home. The barbers at NicoStilo Barbershop treat you like you are a part
+  of our family.
 first-service-icon: fa-users
 second-service-title: Price List
 second-service-content: |-
@@ -59,7 +59,6 @@ portfolio-items:
   description: 
   photo-link: https://www.instagram.com/nicostilobarbershop/
 - image: "/uploads/beard.jpg"
-  description: 
   photo-link: https://www.instagram.com/nicostilobarbershop/
 team-title: Our Amazing Team!!
 team-content: We specialize in all types of hair !
