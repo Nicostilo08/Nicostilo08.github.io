@@ -28,9 +28,10 @@ second-service-content: "Hair wash $5 --- Shape-up $8 <br />\nFacial massage $8 
   />\nHaircut and hot towel shave $25 "
 second-service-icon: fa-money
 third-service-title: Schedule
-third-service-content: "Mon\t8:00 am - 8:00 pm\t\nTue\t8:00 am - 8:00 pm\t\nWed\t8:00
-  am - 8:00 pm\t\nThu\t8:00 am - 8:00 pm\t\nFri\t        8:00 am - 9:00 pm\t\nSat\t
-  \       8:00 am - 9:00 pm\t\nSun\t9:00 am - 5:00 pm"
+third-service-content: "Mon\t8:00 am - 8:00 pm <br />\nTue\t8:00 am - 8:00 pm <br
+  />\t\nWed\t8:00 am - 8:00 pm <br />\nThu\t8:00 am - 8:00 pm <br />\nFri\t        8:00
+  am - 9:00 pm <br />\nSat\t        8:00 am - 9:00 pm <br />\nSun\t9:00 am - 5:00
+  pm"
 third-service-icon: fa-clock-o
 portfolio-title: Portfolio
 portfolio-content: Some of our Work !!!
