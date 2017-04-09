@@ -22,18 +22,10 @@ first-service-content: NicoStilo Barbershop is a place that you can go and feel 
   of our family.
 first-service-icon: fa-users
 second-service-title: Price List
-second-service-content: |-
-  Hair wash                                        $5 +
-  Shape-up                                         $8 +
-  Facial massage                              $8 +
-  Designs starting at                       $10 +
-  Shape-up and Beard                   $12 +
-  Kids cut                                             $12 +
-  Haircut                                              $15 +
-  Hot towel shave                            $15 +
-  Black-out                                          $20 +
-  Haircut and beard                        $21 +
-  Haircut and hot towel shave    $25 +
+second-service-content: "Hair wash $5 --- Shape-up $8 <br />\nFacial massage $8  ---
+  Designs starting at $10  <br />\nShape-up and Beard $12  --- Kids cut $12  <br />\nHaircut
+  $15  --- Hot towel shave $15  <br />\nBlack-out $20  --- Haircut and beard $21  <br
+  />\nHaircut and hot towel shave $25 "
 second-service-icon: fa-money
 third-service-title: Schedule
 third-service-content: "Mon\t8:00 am - 8:00 pm\t\nTue\t8:00 am - 8:00 pm\t\nWed\t8:00
