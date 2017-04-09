@@ -95,7 +95,7 @@ team-members:
   image: "/uploads/img6-7ce432.jpg"
   instagram: https://www.instagram.com/_marte07/
   facebook: https://www.facebook.com/nicostilobarbershop
-story-start: Our Story!!
+story-start: Be Part <br />Of our <br />Story!
 our-story:
 - image: "/uploads/Nicostilo...jpg"
   when-it-was: 2015-Present
