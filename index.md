@@ -59,32 +59,32 @@ team-content: We specialize in all types of hair !
 team-description: Over 40+ years in combined expierence
 team-members:
 - name: NicoStilo
-  position: Owner/ Prosfessional Barber
+  position: Owner/ Professional Barber
   image: "/uploads/img1.1-515821.jpg"
   instagram: https://www.instagram.com/nicostilo8/
   facebook: https://www.facebook.com/nicostilobarbershop
 - name: Tomy Boy
-  position: Prosfessional Barber
+  position: " Professional Barber"
   image: "/uploads/img2.jpg"
   instagram: https://www.instagram.com/tomy_cuts/
   facebook: https://www.facebook.com/nicostilobarbershop
 - name: Jorge "Tato The Barber"
-  position: Prosfessional Barber
+  position: " Professional Barber"
   image: "/uploads/img3.jpg"
   instagram: https://www.instagram.com/tatothebarber/
   facebook: https://www.facebook.com/nicostilobarbershop
 - name: Francis Style
-  position: Prosfessional Barber
+  position: " Professional Barber"
   image: "/uploads/img4.jpg"
   instagram: https://www.instagram.com/franci_stilo/
   facebook: https://www.facebook.com/nicostilobarbershop
 - name: Nelson Style
-  position: Prosfessional Barber
+  position: " Professional Barber"
   image: "/uploads/img5.jpg"
   instagram: https://www.instagram.com/nicostilobarbershop/
   facebook: https://www.facebook.com/nicostilobarbershop
 - name: Bryan Style
-  position: Prosfessional Barber
+  position: " Professional Barber"
   image: "/uploads/img6-7ce432.jpg"
   instagram: https://www.instagram.com/_marte07/
   facebook: https://www.facebook.com/nicostilobarbershop
