@@ -63,11 +63,6 @@ team-members:
   image: "/uploads/img1.1-515821.jpg"
   instagram: https://www.instagram.com/nicostilo8/
   facebook: https://www.facebook.com/nicostilobarbershop
-- name: Tomy Boy
-  position: " Professional Barber"
-  image: "/uploads/img2.jpg"
-  instagram: https://www.instagram.com/tomy_cuts/
-  facebook: https://www.facebook.com/nicostilobarbershop
 - name: Jorge "Tato The Barber"
   position: " Professional Barber"
   image: "/uploads/img3.jpg"
