@@ -4,7 +4,7 @@ logo-image: img/logo.png
 copyright: Copyright &copy; NicoStilo Barbershop 2017
 instagram: https://www.instagram.com/nicostilobarbershop/
 yelp: https://www.yelp.com/biz/nicostilo-barbershop-perth-amboy
-google: https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=nicostilo+barbershop&*&lrd=0x89c3ca7bd61e6001:0x8350666b6cbbc403,3,
+google: https://www.google.com/search?q=nicostilo+barbershop&oq=NI&aqs=chrome.2.69i60l2j69i59j69i60j69i57j69i59.2815j0j7&sourceid=chrome&ie=UTF-8
 facebook: https://www.facebook.com/nicostilobarbershop
 menu-services: Services
 menu-portfolio: Portfolio
