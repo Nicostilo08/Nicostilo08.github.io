@@ -83,6 +83,16 @@ team-members:
   image: "/uploads/img6-7ce432.jpg"
   instagram: https://www.instagram.com/_marte07/
   facebook: https://www.facebook.com/nicostilobarbershop
+- name: Blue The Barber
+  position: " Professional Barber"
+  image: "/uploads/blue.jpg"
+  instagram: https://www.instagram.com/blueskiethebarber/
+  facebook: https://www.facebook.com/nicostilobarbershop
+- name: Jeans
+  position: " Professional Barber"
+  image: "/uploads/chui.jpg"
+  instagram: https://www.instagram.com/yosoy.jc/
+  facebook: https://www.facebook.com/nicostilobarbershop
 story-start: Be Part <br />Of our <br />Story!
 our-story:
 - image: "/uploads/Nicostilo...jpg"
@@ -92,6 +102,12 @@ our-story:
     The barbers at NicoStilo Barbershop treat you like you are a part of our family.
     We are specialize in all different types of haircuts. If you want it done Right,
     Come to NicoStilo Barbershop
+- image: "/uploads/nicostilobarbershop2.jpg"
+  when-it-was: 2018
+  title: Second Location
+  description: |-
+    Year 2018 we open our Second location of NicoStilo Barbershop located at 737 Rahway ave. Woodbridge, NJ 07095.
+    You are all welcome to visit us
 - image: "/uploads/nicoooo.jpg"
   when-it-was: 2015
   title: The Barbershop
