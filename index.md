@@ -125,10 +125,7 @@ our-story:
     my passion. I thank Evolution Barbershop in the Dominican Republic for the opportunity.
 contact-title: Contact Us
 contact-content: 737  Rahway Ave. Woodbridge ,NJ 07095
-contact-phone: |-
-  732-324-7880
-
-  732-326-2441
+contact-phone: 732-324-7880
 contact-phone-icon: fa-phone
 contact-email: nicostilobarbershop@gmail.com
 contact-email-icon: fa-envelope
