@@ -126,9 +126,11 @@ our-story:
 contact-title: Contact Us
 contact-content: |-
   279 New Brunswick ave. Perth Amboy, NJ. 08861
+
   737  Rahway Ave. Woodbridge ,NJ 07095
 contact-phone: |-
   732-324-7880
+
   732-326-2441
 contact-phone-icon: fa-phone
 contact-email: nicostilobarbershop@gmail.com
