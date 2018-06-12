@@ -124,11 +124,16 @@ our-story:
   description: I started working as a barber in 2009. What started as a hobby became
     my passion. I thank Evolution Barbershop in the Dominican Republic for the opportunity.
 contact-title: Contact Us
-contact-content: 279 New Brunswick ave. Perth Amboy NJ. 08861
-contact-phone: 732-324-7880
+contact-content: |-
+  279 New Brunswick ave. Perth Amboy, NJ. 08861
+  737  Rahway Ave. Woodbridge ,NJ 07095
+contact-phone: |-
+  732-324-7880
+  732-326-2441
 contact-phone-icon: fa-phone
 contact-email: nicostilobarbershop@gmail.com
 contact-email-icon: fa-envelope
+Field name: 
 layout: barbershop
 ---
 
