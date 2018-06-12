@@ -102,7 +102,7 @@ our-story:
     The barbers at NicoStilo Barbershop treat you like you are a part of our family.
     We are specialize in all different types of haircuts. If you want it done Right,
     Come to NicoStilo Barbershop
-- image: "/uploads/nicostilobarbershop2-48ae38.jpg"
+- image: "/uploads/nicostilobarbershop2-22c3f6.jpg"
   when-it-was: 2018
   title: Second Location
   description: |-
